@@ -1,4 +1,4 @@
 first repository
 
 
-github is a verion controlled platform.
+git is a distributed version control system 
